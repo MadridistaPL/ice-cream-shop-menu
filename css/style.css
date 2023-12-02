@@ -42,7 +42,8 @@ h2 {
 
 h1,
 h2,
-p {
+p,
+address {
   text-align: center;
 }
 
@@ -94,8 +95,8 @@ footer {
   font-size: 14px;
 }
 
-.address {
-  margin-bottom: 5px;
+address {
+  margin-top: 25px;
 }
 
 a,
